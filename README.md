@@ -1,5 +1,5 @@
 🔐PASSWORD GENERATOR
-🔓 A password generator creates random and complex password that are extremely hard to guess, keeping your accounts safe from hackers🌟 Features of a Password Generator
+🔓 A password generator creates random and complex password that are extremely hard to guess, keeping your accounts safe from hacked
 
 🌟 FEATURES 
 
