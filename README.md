@@ -1,4 +1,5 @@
 🔐PASSWORD GENERATOR
+
 🔓 A password generator creates random and complex password that are extremely hard to guess, keeping your accounts safe from hacked
 
 🌟 FEATURES 
@@ -17,7 +18,9 @@
 
 5. 🧠 NO NEED TO REMEMBER
 
-6. 🚀 HOW TO RUN 
+   
+🚀 HOW TO RUN 
+
 
 1. 🖥️ Open Password Generator Tool
 
